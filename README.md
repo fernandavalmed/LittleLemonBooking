@@ -7,7 +7,7 @@ Welcome to **Little Llemon Booking**! This repository contains the Booking secti
 This project utilizes the following technologies:
 - **Python** 🐍
 - **Django** 🌐
-- - **MySQL** 🗃️
+- **MySQL** 🗃️
 
 The main goal of this project is to implement the booking functionality for the Little Lemon restaurant, providing a robust and scalable back-end solution.
 
